@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 body {
-  width: 400px;
+  width: 100%;
 }
 
 img {
@@ -13,14 +13,14 @@ img {
 }
 
 h1 {
-  width: 48px;
+  width: 200px;
   font-family: "Pacifico", cursive;
   margin: 50px;
   padding: 50px;
 }
 
 a {
-  width: 24px;
+  width: 200px;
   font-family: "Permanent Marker", cursive;
   text-decoration: none;
   border: 1px solid black;
